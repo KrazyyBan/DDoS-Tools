@@ -1,0 +1,8 @@
+{
+  "PING": {
+    "URL": "https://splifight.fr",
+    "DELAY": "1000",
+    "REPING-AFTER-ERROR": false,
+    "REPING-AFTER-SUCCESS": false
+  }
+}
