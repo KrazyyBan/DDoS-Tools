@@ -9,4 +9,6 @@ let url = setUrl(config.PING.URL); // Set the url
 let delay = setIntervalAsync(config.PING.DELAY); //Set the default delay between requests to 1 second
 //If the delay is set to 0, the request was sent all 1000 ms
 
-setInterval(async () => { await ping(url) }, delay); // Ping the server
+setInterval(async () => { 
+await ping(url) 
+}, delay); // Ping the server
