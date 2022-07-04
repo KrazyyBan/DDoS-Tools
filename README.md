@@ -44,4 +44,4 @@ If error was found, the tool return the error.  And stop the process.
 # License
 This tool is licensed under the [MIT license]() <br>
 Developed by [Mathis Audureau](https://github.com/mathisaudureau) <br>
-> Please dont use this tool for DDoS !
+> Please use this tool for DDoS
