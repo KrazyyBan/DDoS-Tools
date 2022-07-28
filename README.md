@@ -1,4 +1,4 @@
-Just install the executor in the versions, it will guide you for DDos.
+Just install the executor in the release, it will guide you for DDos.
 
 # License
 This tool is licensed under the [MIT license]() <br>
