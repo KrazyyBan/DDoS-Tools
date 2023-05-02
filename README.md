@@ -15,7 +15,7 @@ Our tool is using OUR servers to ddoes any server you want (except official ones
 With our [free version](https://github.com/MatDvlp/DDoS-Tools/releases/tag/stable) in L7 you will be able to send up to 500k rps attacks.
 If you need more power you can contact us to buy our premium version (20$ per month) to be able to send up to 2 millions rps attacks !
 
-In L4, you will be able to send up to 5gb/s (free version) and 27gb/s with premium version
+In L4, you will be able to send up to 1.5gb/s (free version) and 17gb/s with premium version
 
 # License
 This tool is licensed under the [MIT license]() <br>
