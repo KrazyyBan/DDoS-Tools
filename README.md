@@ -19,6 +19,6 @@ In L4, you will be able to send up to 5gb/s (free version) and 27gb/s with premi
 
 # License
 This tool is licensed under the [MIT license]() <br>
-Developed by [Mathis A.](https://github.com/matdvlp) and <br>
+Developed by [Mathis A.](https://github.com/matdvlp) and [Noam S.](https://nothing.fr/)<br>
 
 ![image](https://user-images.githubusercontent.com/64200318/235465169-bddadbf2-f991-48aa-bf99-dfde98ee5229.png)
