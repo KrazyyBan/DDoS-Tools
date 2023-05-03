@@ -1,4 +1,4 @@
-<h1>Oudated source code because of random kids who were reselling it</h1>
+<h1>Oudated source code because of random kids who were reselling it..</h1>
 <h2>Use the complied version instead, more methods and bypasses available</h2>
 
 [DDOD-Tool release download here](https://github.com/MatDvlp/DDoS-Tools/releases/tag/stable)
