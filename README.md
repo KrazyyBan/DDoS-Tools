@@ -3,7 +3,7 @@
 
 [DDOS-Tool release download here](https://github.com/MatDvlp/DDoS-Tools/releases/tag/stable)
 
-# Presentation 🔥
+# Presentation 🍿
 Our tool is using OUR servers to ddoes any server you want (except official ones like .gov)!
 - Bypass Cloudflare (UAM, CAPTCHA, WAF)
 - Might bypass all protection
